@@ -11,7 +11,7 @@
 
 - Изучаю Вертску и Нативный JavaScript 
 - Буду рад полезным советам
-- Работаю над [Проектом](https://github.com/dreamprogrammin/mariela)
+- Работаю над [Проектом]https://github.com/dreamprogrammin/KMF.git)
 
 ## Языки программирование и инструменты 
 
