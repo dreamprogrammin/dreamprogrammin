@@ -27,10 +27,13 @@
 ## Моя активность
 
 <br />
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={vue}
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamprogrammin&show_icons=true&theme=dark)
 
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamprogrammin&langs_count=8)
+
+## Мои награды 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
