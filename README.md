@@ -11,11 +11,6 @@
 *   🚀  Последняя работа [dostykdrive](http://dostykdrive.kz/)
 *   🧠  В разработке использую фреймворк Vue
 
-# snk
-# Dreamprogrammin's GitHub Profile
-
-## My GitHub Stats
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
