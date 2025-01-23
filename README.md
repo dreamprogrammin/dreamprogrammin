@@ -10,6 +10,15 @@
 *   ✉️  Моя почта [mbabazov@list.ru](mailto:mbabazov@list.ru)
 *   🚀  Последняя работа [dostykdrive](http://dostykdrive.kz/)
 *   🧠  В разработке использую фреймворк Vue
+# Dreamprogrammin's GitHub Profile
+
+## My GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 
 
                     
