@@ -1,4 +1,3 @@
-Привет 👋 я Малик Бабазов
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет+👋+я+Малик+Бабазов)](https://git.io/typing-svg)
 ==============================
 
