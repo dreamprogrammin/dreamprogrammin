@@ -29,7 +29,7 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamprogrammin&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dreamprogrammin)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dreamprogrammin)
 
 ### Socials
 
