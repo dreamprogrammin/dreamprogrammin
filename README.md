@@ -30,7 +30,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamprogrammin&layout=compact)
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dreamprogrammin)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamprogrammin)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Socials
 
