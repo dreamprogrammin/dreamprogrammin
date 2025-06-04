@@ -30,6 +30,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamprogrammin&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamprogrammin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamprogrammin&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamprogrammin&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Socials
 
