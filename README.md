@@ -30,6 +30,8 @@
 
 <a href="https://wakatime.com/badge/github/dreamprogrammin/commerce"><img src="https://wakatime.com/badge/github/dreamprogrammin/commerce.svg" alt="wakatime"></a>
 
+<figure><embed src="https://wakatime.com/share/@38239ac6-ebff-46bf-9f09-cb0040ff6f24/d86feaab-a302-4489-a307-6ae1e2624c4d.svg"></embed></figure>
+
 <figure><embed src="https://wakatime.com/share/@38239ac6-ebff-46bf-9f09-cb0040ff6f24/3c6f365a-e4c2-424d-8347-9c224350ad3a.svg"></embed></figure>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamprogrammin&layout=compact)
